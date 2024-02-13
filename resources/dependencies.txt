@@ -4,4 +4,4 @@ pip install:
     django-cors-headers
     bs4
     requests
-    penai==0.28
+    openai==0.28
